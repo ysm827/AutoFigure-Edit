@@ -561,6 +561,7 @@ Scan the QR code to join our community. If the code is expired, please add WeCha
 <table>
   <tr>
     <td><img src="img/wechat11.jpg" width="200" alt="WeChat 2"/></td>
+    <td><img src="img/lzwechat.jpg" width="200" alt="WeChat 2"/></td>
   </tr>
 </table>
 
